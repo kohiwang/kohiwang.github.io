@@ -2,4 +2,4 @@
 layout: black
 title: Yawn | Kohi
 ---
-<iframe src="https://onedrive.live.com/embed?cid=322046ED5865E394&resid=322046ED5865E394%21747658&authkey=AEd4UT8btLKoh-k" frameborder="0" scrolling="no" allowfullscreen></iframe>
+![Kohi Yawn](https://xodd9g.bn.files.1drv.com/y4m3etdwZDqprGYwQx78INIYu5nGguFijJWFwouRn5t6U4a8aloBRc4B2rIDBC42Y3AYeNQuf7ElVfdD7vy8QpBsTod-EUMNboUl_4fhMNXMf_icgSxmCLtBVTb1q4occ9NkWooXtrrKLRoBJ0gcw2cjgB4oyh9cEJv6IqemBUkDD7rd-h8rXRke_-UcTzvWKBHol-hP-ltWYG6ON0YzQM4rQ)
