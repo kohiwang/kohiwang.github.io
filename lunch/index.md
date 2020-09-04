@@ -1,0 +1,5 @@
+---
+layout: black
+title: Lunch | Kohi
+---
+![Lunch](https://wcajhq.bn.files.1drv.com/y4m2KUXBM4SWvuzckRqK4w4ddK_auDHjj7YFZq809UNaQufEwgyiSEMyyeOELUkBjLiSfYIPV5KQfB5YtmEF730uYkYLY9ar0hm3JUdSvFQNLoBkpB9Nd1197w_CNn_yYR9PivqvNh-k8iIwpvtKRRhLEd3TALQ8ZYLH_Xpe_2DLOqDv0cybEiMIC6WXkhH5uuUmp8USI-ocpkkaYFhcGY6CA?width=1024&height=577&cropmode=none)
