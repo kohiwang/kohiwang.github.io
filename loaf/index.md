@@ -1,5 +1,5 @@
 ---
 layout: black
 title: Loaf
-image: https://kxocuw.bn.files.1drv.com/y4mgMFDS5iyJ2vNPjOc74hZa8X0QXzPhb3TnqxCKj-QgkpIRad6LuRvrQN_TrFPWpaiIEh7OUy9j4fAv65DmpJHwt3egNhYYbsZ4s35-GT1lVsRwXs4zu0RunJIHaA_BQ96CCp5_e65o690RZFovbzVZb6Xr8GbcEk4A7_7drkg-6MnfyXAKux3YpGgfYPJBxydvuhmkQo1U8jvZlMthp850Q
+image: https://1drv.ms/i/c/322046ed5865e394/UQSU42VY7UYgIIAykWgLAAAAAAuMDs0oFwwO9uM
 ---
